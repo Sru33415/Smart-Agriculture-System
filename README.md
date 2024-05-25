@@ -1,2 +1,2 @@
 # Smart-Agriculture-System
-This is the college Project based on Machine Learning
+This is the Project based on Machine Learning as well as Image Processing
